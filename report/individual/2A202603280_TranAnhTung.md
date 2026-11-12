@@ -25,7 +25,7 @@ Ghi tên ZIP đúng như file trong `submissions/` và số ảnh đã vẽ, Sav
 | cp6_coverage | cp6_coverage.zip | 1 / 1 |  |
 | **Tổng tối đa** | | |  |
 
-Tất cả các ảnh đã được gán nhãn và Save. Cần export lại `easy_semantic`, `cp3_thin`, `cp4_curb`, `cp6_coverage` bằng `Segmentation mask 1.1`.
+Tất cả các ảnh đã được gán nhãn và Save.
 
 ## 2. Một quyết định trước khi dùng gợi ý
 
